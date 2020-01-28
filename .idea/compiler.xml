@@ -10,7 +10,6 @@
         <module name="spring_ioc" />
         <module name="spring_ioc_anno" />
         <module name="spring_ioc_obj" />
-        <module name="spring_jdbc" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
