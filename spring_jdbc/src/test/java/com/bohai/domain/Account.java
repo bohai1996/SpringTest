@@ -15,7 +15,7 @@ public class Account {
     public double getMoney() {
         return money;
     }
-    //
+    // money
     public void setMoney(double money) {
         this.money = money;
     }
