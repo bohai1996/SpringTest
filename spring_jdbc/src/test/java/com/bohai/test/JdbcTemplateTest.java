@@ -11,6 +11,7 @@ import java.beans.PropertyVetoException;
 public class JdbcTemplateTest {
     @Test
     // 测试spring产生jdbcTemplate对象
+    // 测试git
     public void test2(){
         ApplicationContext app = new ClassPathXmlApplicationContext("applicationContext.xml");
 
